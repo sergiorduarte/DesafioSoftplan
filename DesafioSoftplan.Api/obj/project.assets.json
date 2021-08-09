@@ -221,11 +221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan\\DesafioSoftplan.Api.csproj",
+      "projectUniqueName": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Api\\DesafioSoftplan.Api.csproj",
       "projectName": "DesafioSoftplan.Api",
-      "projectPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan\\DesafioSoftplan.Api.csproj",
+      "projectPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Api\\DesafioSoftplan.Api.csproj",
       "packagesPath": "C:\\Users\\seerg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan\\obj\\",
+      "outputPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

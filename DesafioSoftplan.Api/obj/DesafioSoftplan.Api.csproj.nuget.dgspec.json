@@ -1,75 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan\\DesafioSoftplan.Api.csproj": {}
+    "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Api\\DesafioSoftplan.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Domain\\DesafioSoftplan.Services.csproj": {
+    "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Api\\DesafioSoftplan.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Domain\\DesafioSoftplan.Services.csproj",
-        "projectName": "DesafioSoftplan.Services",
-        "projectPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Domain\\DesafioSoftplan.Services.csproj",
-        "packagesPath": "C:\\Users\\seerg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Domain\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\seerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nexus.dotznext.com/repository/nuget/": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan\\DesafioSoftplan.Api.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan\\DesafioSoftplan.Api.csproj",
+        "projectUniqueName": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Api\\DesafioSoftplan.Api.csproj",
         "projectName": "DesafioSoftplan.Api",
-        "projectPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan\\DesafioSoftplan.Api.csproj",
+        "projectPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Api\\DesafioSoftplan.Api.csproj",
         "packagesPath": "C:\\Users\\seerg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan\\obj\\",
+        "outputPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -125,6 +67,64 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Domain\\DesafioSoftplan.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Domain\\DesafioSoftplan.Services.csproj",
+        "projectName": "DesafioSoftplan.Services",
+        "projectPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Domain\\DesafioSoftplan.Services.csproj",
+        "packagesPath": "C:\\Users\\seerg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\seerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexus.dotznext.com/repository/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

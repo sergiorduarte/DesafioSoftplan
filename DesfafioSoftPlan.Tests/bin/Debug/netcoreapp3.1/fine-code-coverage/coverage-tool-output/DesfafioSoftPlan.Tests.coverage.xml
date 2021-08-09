@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.9031999999999999" branch-rate="1" version="1.9" timestamp="1628527136" lines-covered="28" lines-valid="31" branches-covered="0" branches-valid="0">
+<coverage line-rate="0.9031999999999999" branch-rate="1" version="1.9" timestamp="1628527893" lines-covered="28" lines-valid="31" branches-covered="0" branches-valid="0">
   <sources>
     <source>C:\Users\seerg\</source>
   </sources>
@@ -90,7 +90,7 @@
             <line number="17" hits="5" branch="False" />
           </lines>
         </class>
-        <class name="DesfafioSoftPlan.Tests.JurosTests/&lt;Test2&gt;d__2" filename="source\repos\DesafioSoftplan\DesfafioSoftPlan.Tests\JurosTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="DesfafioSoftPlan.Tests.JurosTests/&lt;Juros_VerificaTaxaDeJuros_Valido&gt;d__2" filename="source\repos\DesafioSoftplan\DesfafioSoftPlan.Tests\JurosTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -108,7 +108,7 @@
             <line number="31" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="DesfafioSoftPlan.Tests.JurosTests/&lt;Test2_Invalid&gt;d__3" filename="source\repos\DesafioSoftplan\DesfafioSoftPlan.Tests\JurosTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="DesfafioSoftPlan.Tests.JurosTests/&lt;Juros_VerificaTaxaDeJuros_Invalid&gt;d__3" filename="source\repos\DesafioSoftplan\DesfafioSoftPlan.Tests\JurosTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -126,7 +126,7 @@
             <line number="46" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="DesfafioSoftPlan.Tests.JurosTests/&lt;CalculaOValorDosJuros_Valid&gt;d__4" filename="source\repos\DesafioSoftplan\DesfafioSoftPlan.Tests\JurosTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="DesfafioSoftPlan.Tests.JurosTests/&lt;Juros_CalculaOValorDosJuros_Valid&gt;d__4" filename="source\repos\DesafioSoftplan\DesfafioSoftPlan.Tests\JurosTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -144,7 +144,7 @@
             <line number="59" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="DesfafioSoftPlan.Tests.JurosTests/&lt;CalculaOValorDosJuros_Invalid&gt;d__5" filename="source\repos\DesafioSoftplan\DesfafioSoftPlan.Tests\JurosTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="DesfafioSoftPlan.Tests.JurosTests/&lt;Juros_CalculaOValorDosJuros_Invalid&gt;d__5" filename="source\repos\DesafioSoftplan\DesfafioSoftPlan.Tests\JurosTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
