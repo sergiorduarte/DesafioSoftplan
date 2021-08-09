@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DesafioSoftplan.Domain\DesafioSoftplan.Services.csproj" />
+    <ProjectReference Include="..\DesafioSoftplan.Services\DesafioSoftplan.Services.csproj" />
   </ItemGroup>
 
 

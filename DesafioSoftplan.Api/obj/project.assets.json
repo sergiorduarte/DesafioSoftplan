@@ -204,8 +204,8 @@
     },
     "DesafioSoftplan.Services/1.0.0": {
       "type": "project",
-      "path": "../DesafioSoftplan.Domain/DesafioSoftplan.Services.csproj",
-      "msbuildProject": "../DesafioSoftplan.Domain/DesafioSoftplan.Services.csproj"
+      "path": "../DesafioSoftplan.Services/DesafioSoftplan.Services.csproj",
+      "msbuildProject": "../DesafioSoftplan.Services/DesafioSoftplan.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -248,6 +248,9 @@
           "projectReferences": {
             "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Domain\\DesafioSoftplan.Services.csproj": {
               "projectPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Domain\\DesafioSoftplan.Services.csproj"
+            },
+            "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Services\\DesafioSoftplan.Services.csproj": {
+              "projectPath": "C:\\Users\\seerg\\source\\repos\\DesafioSoftplan\\DesafioSoftplan.Services\\DesafioSoftplan.Services.csproj"
             }
           }
         }
