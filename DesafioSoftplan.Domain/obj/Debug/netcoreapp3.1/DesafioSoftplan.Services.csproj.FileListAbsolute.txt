@@ -1,0 +1,12 @@
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\bin\Debug\netcoreapp3.1\DesafioSoftplan.Services.exe
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\bin\Debug\netcoreapp3.1\DesafioSoftplan.Services.deps.json
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\bin\Debug\netcoreapp3.1\DesafioSoftplan.Services.runtimeconfig.json
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\bin\Debug\netcoreapp3.1\DesafioSoftplan.Services.runtimeconfig.dev.json
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\bin\Debug\netcoreapp3.1\DesafioSoftplan.Services.dll
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\bin\Debug\netcoreapp3.1\DesafioSoftplan.Services.pdb
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\obj\Debug\netcoreapp3.1\DesafioSoftplan.Services.AssemblyInfoInputs.cache
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\obj\Debug\netcoreapp3.1\DesafioSoftplan.Services.AssemblyInfo.cs
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\obj\Debug\netcoreapp3.1\DesafioSoftplan.Services.csproj.CoreCompileInputs.cache
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\obj\Debug\netcoreapp3.1\DesafioSoftplan.Services.dll
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\obj\Debug\netcoreapp3.1\DesafioSoftplan.Services.pdb
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Domain\obj\Debug\netcoreapp3.1\DesafioSoftplan.Services.genruntimeconfig.cache

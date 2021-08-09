@@ -64,12 +64,12 @@ C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan\obj\Debug\netcoreapp
 C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan\obj\Debug\netcoreapp3.1\DesafioSoftplan.Api.dll
 C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan\obj\Debug\netcoreapp3.1\DesafioSoftplan.Api.pdb
 C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan\obj\Debug\netcoreapp3.1\DesafioSoftplan.Api.genruntimeconfig.cache
-C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Api\bin\netcoreapp3.1\appsettings.Development.json
-C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Api\bin\netcoreapp3.1\appsettings.json
 C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Api\bin\netcoreapp3.1\DesafioSoftplan.Services.deps.json
 C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Api\bin\netcoreapp3.1\DesafioSoftplan.Services.runtimeconfig.json
 C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Api\bin\netcoreapp3.1\DesafioSoftplan.Services.runtimeconfig.dev.json
 C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Api\bin\netcoreapp3.1\DesafioSoftplan.Services.exe
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Api\bin\netcoreapp3.1\appsettings.Development.json
+C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Api\bin\netcoreapp3.1\appsettings.json
 C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Api\bin\netcoreapp3.1\DesafioSoftplan.Api.exe
 C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Api\bin\netcoreapp3.1\DesafioSoftplan.Api.deps.json
 C:\Users\seerg\source\repos\DesafioSoftplan\DesafioSoftplan.Api\bin\netcoreapp3.1\DesafioSoftplan.Api.runtimeconfig.json
