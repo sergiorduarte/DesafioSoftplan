@@ -17,7 +17,7 @@ namespace DesafioSoftplan.Api.Controllers
         [HttpGet("showmethecode")]
         public string Code()
         {
-            return "";
+            return "https://github.com/sergiorduarte/DesafioSoftplan";
         }
     }
 }
