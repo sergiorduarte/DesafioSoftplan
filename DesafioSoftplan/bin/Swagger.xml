@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DesafioSoftplan.Api</name>
+    </assembly>
+    <members>
+        <member name="M:DesafioSoftplan.Api.Controllers.ShowMeTheCode.Code">
+            <summary>
+            Retorna a url do git
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DesafioSoftplan.Controllers.JurosController.#ctor(DesafioSoftplan.Services.Services.Interfaces.IJurosService)">
+            <summary>
+            
+            </summary>
+            <param name="jurosService"></param>
+        </member>
+        <member name="M:DesafioSoftplan.Controllers.JurosController.TaxaJuros">
+            <summary>
+            Retorna a taxa de juros
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DesafioSoftplan.Controllers.JurosController.Calculajuros(System.Double,System.Int32)">
+            <summary>
+            Retorna o calculo com juros compostos
+            </summary>
+            <remarks>
+            Envio
+            Get
+            {
+             "valorInicial":double,
+             "meses":int
+            }
+            
+            </remarks>
+            <param name="valorInicial"></param>
+            <param name="meses"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
